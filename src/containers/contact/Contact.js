@@ -13,6 +13,7 @@ export default function Contact() {
           
           <div className="contact-text-div">
           <h1 className="contact-detail">{contactInfo.number}</h1>
+          <h1 className="contact-detail">{contactInfo.alternate_number}</h1>
           <h1 className="contact-detail-email">{contactInfo.email_address}</h1>
 
           <SocialMedia />

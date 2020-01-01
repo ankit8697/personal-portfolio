@@ -2,29 +2,29 @@
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all 👋 I'm Saad",
+  title: "Hey! I'm Ankit",
   subTitle:
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks",
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+    "I'm a junior computer science major studying at Carleton College. I love building things and am very passionate about development. I enjoy android development and love to learn all kinds of new technologies and frameworks!",
+  resumeLink: "https://drive.google.com/file/d/1WjNiSwJY2TBbsQjtVRyaW-bG3qSuunZY/view?usp=sharing"
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
+  github: "https://github.com/ankit8697",
+  linkedin: "https://www.linkedin.com/in/ankit-sanghi/",
+  gmail: "ankitsanghi0@gmail.com",
+  gitlab: "https://gitlab.com/ankit8697",
+  facebook: "https://www.facebook.com/deathmaster99"
 };
 
 const skillsSection = {
   /* Your Skills Section  */
-  title: "What i do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANT TO EXPLORE EVERY TECH STACK",
+  title: "My Skills",
+  subTitle: "Love learning new technologies and am very passionate about development",
   skills: [
-    "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
-    "⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks",
-    "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+    "⚡ Creating web and mobile applications that make a difference in the world",
+    "⚡ Highly proficient in Python",
+    "⚡ Passionate about Cryptography and the different use cases of cryptographic promitives"
   ],
 
   /* Make Sure You include correct Font Awesome Classname to view your icon */
@@ -40,24 +40,12 @@ const skillsSection = {
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
     },
     {
       skillName: "npm",
@@ -68,10 +56,6 @@ const skillsSection = {
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
     },
@@ -80,9 +64,17 @@ const skillsSection = {
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
+      skillName: "Java",
+      fontAwesomeClassname: "fab fa-java"
+    },
+    {
+      skillName: "Git",
+      fontAwesomeClassname: "fab fa-git"
+    },
+    {
+      skillName: "Android",
+      fontAwesomeClassname: "fab fa-android"
+    },
   ]
 };
 
@@ -90,23 +82,27 @@ const openSource = {
   /* Your Open Source Section to View Your Github Pinned Projects */
   /* To know how to get github key look at readme.md */
 
-  githubConvertedToken: "Your Github Converted Token",
-  githubUserName: "Your Github Username"
+  githubConvertedToken: "YjliNWE1YTA0NDJiMDc5ZTZhOGZmZDdmNjNmYzQ3ZjdlMmExN2Y5Yg==",
+  githubUserName: "ankit8697"
 };
 
 const bigProjects = {
   /* Some Big Projects You have worked with your company */
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELP TO CREATE THEIR TECH",
+  title: "Professional Experience",
+  subtitle: "Some of the companies that I have worked at",
   projects: [
     {
-      image: "https://drive.google.com/uc?id=1exWn9T6j8TsfDDHJnS3VR66eP6RiGAfY",
-      link: "http://saayahealth.com/"
+      image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FIndian_Institute_of_Technology_Madras&psig=AOvVaw3hMB0n2iXmKTiLm25kOpZB&ust=1577971700139000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODg6-PA4uYCFQAAAAAdAAAAABAD",
+      link: "https://rise-iil.github.io/"
     },
     {
-      image: "http://nextu.se/wp-content/themes/nextu/images/og_img.jpg",
-      link: "http://nextu.se/"
-    }
+      image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fmarketsof1&psig=AOvVaw36B4dkHcranDbwr8AptgBz&ust=1577977926517000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDI6PzX4uYCFQAAAAAdAAAAABAD",
+      link: "http://www.marketsof1.com/"
+    },
+    {
+      image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fserc.carleton.edu%2Fdetails%2Fimages%2F63884.html&psig=AOvVaw2sW1JJKYYlXvddBkPdh1l8&ust=1577978224445000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCHoYrZ4uYCFQAAAAAdAAAAABAD",
+      link: "https://blogs.carleton.edu/academictechnology/"
+    },
   ]
 };
 
@@ -198,9 +194,10 @@ const podcastSection = {
 
 const contactInfo = {
   title: "Contact Me ☎️",
-  subtitle: "Discuss a project or just want to say hi my inbox is open for all",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+  subtitle: "If you want something built or just want to talk, contact me at any time!",
+  number: "+1-312-687-6337",
+  alternate_number: "+91-9940239272",
+  email_address: "ankitsanghi0@gmail.com"
 };
 
 export { greeting, socialMediaLinks, skillsSection, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo };
